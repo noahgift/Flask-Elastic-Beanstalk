@@ -10,5 +10,6 @@ lint:
 
 deploy:
 	echo "Deploying app"
+	eb deploy
 
 all: install lint test 
