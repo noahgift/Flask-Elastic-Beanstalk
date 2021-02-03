@@ -28,4 +28,6 @@ D. Create remote eb instance
 `eb create flask-continuous-delivery-env`
 
 
-[YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
+### Other Resources
+
+[Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
