@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.7
+  pre_build:
+    commands:
+      - python3.7 -m venv ~/.venv
+      - source ~/.venv/bin/activate
+      - make install
+      - make lint
+
+  build:
+    commands:
+      - make deploy
