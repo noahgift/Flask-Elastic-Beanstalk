@@ -1,11 +1,7 @@
 # Flask-Elastic-Beanstalk
 
 
-1.  Install `eb` tool:  https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
-
-*Will take a few minutes*
-
-2.  Deploy via cloud9.
+### Deploy via cloud9.
 
 *You can refer to tutorial [here as well for Flask EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)*
 
@@ -17,6 +13,8 @@ B.  create a python virtualenv and source it and run `make all`
 `python3 -m venv ~/.eb`
 `source ~/.eb/bin/activate`
 `make all`
+
+*Note, that awsebcli is installed via requirements*
 
 C. initial new eb app
 
