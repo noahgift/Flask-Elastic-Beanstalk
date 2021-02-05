@@ -34,4 +34,5 @@ D. Create remote eb instance
 
 ### Other Resources
 
-[Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
+* [Complete Walkthrough of Process on O'Reilly Platform](https://learning.oreilly.com/videos/aws-elastic-beanstalk/62022021VIDEOPAIML/62022021VIDEOPAIML-c1_s0)
+* [Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
