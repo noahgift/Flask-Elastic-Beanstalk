@@ -31,6 +31,9 @@ D. Create remote eb instance
 
 `eb create flask-continuous-delivery-env`
 
+E.  Setup AWS Code Build Project
+
+[View Sample `buildspec.yml` Config Here](https://github.com/noahgift/Flask-Elastic-Beanstalk/blob/main/buildspec.yml)
 
 ### Other Resources
 
