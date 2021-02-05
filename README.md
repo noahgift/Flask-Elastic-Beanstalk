@@ -35,6 +35,8 @@ E.  Setup AWS Code Build Project
 
 [View Sample `buildspec.yml` Config Here](https://github.com/noahgift/Flask-Elastic-Beanstalk/blob/main/buildspec.yml)
 
+F.  Next steps (Convert to ML Engineering project)
+
 ### Other Resources
 
 * [Complete Walkthrough of Process on O'Reilly Platform](https://learning.oreilly.com/videos/aws-elastic-beanstalk/62022021VIDEOPAIML/62022021VIDEOPAIML-c1_s0)
