@@ -21,7 +21,7 @@ B.  create a python virtualenv and source it and run `make all`
 
 *Note, that awsebcli is installed via requirements*
 
-C. initial new eb app
+C. initialize new eb app
 
 `eb init -p python-3.7 flask-continuous-delivery --region us-east-1`
 
