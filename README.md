@@ -41,3 +41,7 @@ F.  Suggested next steps (Convert to ML Engineering project [like this project](
 
 * [Complete Walkthrough of Process on O'Reilly Platform](https://learning.oreilly.com/videos/aws-elastic-beanstalk/62022021VIDEOPAIML/62022021VIDEOPAIML-c1_s0)
 * [Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
+
+<!-- FUNNEL-001 footer: replace Flask-Elastic-Beanstalk with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=Flask-Elastic-Beanstalk) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=Flask-Elastic-Beanstalk)
